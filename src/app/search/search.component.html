@@ -1,0 +1,22 @@
+<div class="search-results">
+  <div class="search-item" *ngFor="let item of searchResult">
+    <div class="search-item-image">
+      <a routerLink="/details/{{item.id}}">
+        <img src="{{item.image}}" alt="{{item.name}}">
+      </a>
+    </div>
+    <div class="search-item-details">
+      <h6 class="search-item-name">
+        <a routerLink="/details/{{item.id}}">{{item.name}}</a>
+      </h6>
+      <p class="search-item-description">{{item.description}}</p>
+      <div class="search-item-footer">
+        <p class="search-item-price">Price: ${{item.price}}</p>
+        <p class="search-item-info">
+          <span class="search-item-color">Color: {{item.color}}</span>
+          <span class="search-item-category">Category: {{item.category}}</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

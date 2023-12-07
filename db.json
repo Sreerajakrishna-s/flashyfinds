@@ -1,0 +1,118 @@
+{
+  "seller": [
+    {
+      "name": "Sree Raja Krishna S",
+      "password": "12345678",
+      "email": "sreerajakrishna2002@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Sree Raja Krishna S",
+      "password": "12345678",
+      "email": "srk@gmail.com",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "category": "Toys",
+      "name": "Teddy Bear",
+      "price": "300",
+      "color": "Brown",
+      "image": "https://media.istockphoto.com/id/909772478/photo/brown-teddy-bear-isolated-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=F4252bOrMfRTB8kWm2oM2jlb9JXY08tKCaO5G_ms1Uw=",
+      "description": "Soft as well as fluffy bear for your kids to play with",
+      "id": 5
+    },
+    {
+      "category": "Gadgets",
+      "name": "Noise fit SmartWatch",
+      "price": "1200",
+      "color": "Black",
+      "image": "https://media.istockphoto.com/id/488692812/photo/product-shot-42mm-apple-stainless-steel-watch-on-white.jpg?s=612x612&w=0&k=20&c=Lya1EXHp1lHdfiZLgGg_vCofnavJpkjBZxiy4vkrIN4=",
+      "description": " device that blends the functionality of a wristwatch with smartphone.",
+      "id": 11
+    },
+    {
+      "category": "Gadgets",
+      "name": "Sonata Wrist Watch",
+      "price": "1300",
+      "color": "Black",
+      "image": "https://media.istockphoto.com/id/1068843992/photo/luxury-watch-isolated-on-white-background-with-clipping-path-gold-watch-women-watch-female.jpg?s=612x612&w=0&k=20&c=qJZ4Ybb0fw0w9Z-X8aguaf03zNbkN0RUlX7WyaEgqj8=",
+      "description": "wrist-worn timekeeping device that elegantly blends style and functionality.",
+      "id": 12
+    },
+    {
+      "category": "Gadgets",
+      "name": "Aristocrat",
+      "price": "3000",
+      "color": "Black",
+      "image": "https://media.istockphoto.com/id/163035272/photo/sport-bag-isolated-on-the-white-background.jpg?s=612x612&w=0&k=20&c=CeZ38vAo5ypm2Ziul2eD3GTtCJNeHPvvRT9MB31FdnA=",
+      "description": "Your travel companion",
+      "id": 14
+    },
+    {
+      "category": "Gadgets",
+      "name": "Aristocrat",
+      "price": "1700",
+      "color": "Blue",
+      "image": "https://media.istockphoto.com/id/637936374/photo/stylish-womens-accessories-beautiful-set-of-womens-handbag-and-scarf.jpg?s=612x612&w=0&k=20&c=JTn0yHFNlPw2G-irMzSV8ZGOK6bQEDJg97QtZHx8XpY=",
+      "description": "Your travel companion",
+      "id": 15
+    },
+    {
+      "category": "Shoes",
+      "name": "Nike",
+      "price": "3000",
+      "color": "Brown",
+      "image": "https://media.istockphoto.com/id/171224469/photo/canvas-shoes.jpg?s=612x612&w=0&k=20&c=oD5A61xxgna-0WNafNcZxySSwCiEnUCs5wiDJVfb2tQ=",
+      "description": "Count Your foot steps with nike",
+      "id": 16
+    },
+    {
+      "category": "Home Decor",
+      "name": "Sofa",
+      "price": "7000",
+      "color": "Brown",
+      "image": "https://media.istockphoto.com/id/869078270/photo/armchair-isolated-on-white-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=BSBGae3sdyCHLH911Iv3mplZFoCbjq22ryBMqGpC5Rk=",
+      "description": "Stay comfortable",
+      "id": 19
+    },
+    {
+      "category": "Gadgets",
+      "name": "Earphone",
+      "price": "1000",
+      "color": "White",
+      "image": "https://media.istockphoto.com/id/1271279768/photo/white-headphones-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=OfukAEOmJ_vLzvjP4CfEjmaP5rmkbUTjF3AtUGCQksQ=",
+      "description": "Wear for any special occasion",
+      "id": 21
+    },
+    {
+      "category": "Stationary",
+      "name": "All stationary",
+      "price": "300",
+      "color": "Multicolor",
+      "image": "https://media.istockphoto.com/id/1213573873/photo/group-of-colorful-school-supplies-isolated-on-white.jpg?s=612x612&w=0&k=20&c=xFC6dFBxjH4OKbTk51RlzVL_qwP8Yl5MCJZZD8lC45M=",
+      "description": "All your stationary at one point",
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Sree Raja Krishna S"
+    },
+    {
+      "name": "Sree Raja Krishna S",
+      "email": "sreerajakrishna2002@gmail.com",
+      "password": "qwerty",
+      "id": 2
+    },
+    {
+      "name": "srk",
+      "email": "srk@gmail.com",
+      "password": "12345678",
+      "id": 3
+    }
+  ],
+  "cart": []
+}
